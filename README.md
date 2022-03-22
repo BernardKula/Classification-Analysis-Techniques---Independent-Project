@@ -19,8 +19,6 @@ You will be required to go through the following stages:<br />
 ● Challenging your Solution<br />
 ● Recommendations / Conclusion<br />
 
-You can use the following guideline notebook: https://bit.ly/2CXbIJ6
-
 ## Dataset<br />
 Study your data carefully before implementing your solution.<br />
 Dataset URL = https://bit.ly/MTNTelcoDataset
